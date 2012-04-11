@@ -85,7 +85,7 @@ int main( void )
     _delay_us( 400 );
     LED_OFF;
 
-	_delay_ms( 63 );
+    _delay_ms( 63 );
 
     LED_ON;
     _delay_us( 2000 );
